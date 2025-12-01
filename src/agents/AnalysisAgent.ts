@@ -1,0 +1,1 @@
+// This file is deprecated. Please use agents/AnalysisAgent.ts in the root directory.

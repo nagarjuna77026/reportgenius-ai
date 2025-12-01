@@ -1,0 +1,1 @@
+// This file is deprecated. Please use utils/Logger.ts in the root directory.

@@ -1,0 +1,7 @@
+{
+  "name": "ReportGenius AI",
+  "description": "A professional business intelligence report generation application powered by AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
