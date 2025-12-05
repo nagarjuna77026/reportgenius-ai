@@ -71,6 +71,15 @@ Follow these instructions to run the project locally.
     ```bash
     npm run build
     ```
+6. Website view and Thumbnail photos
+  
+   <img width="1893" height="935" alt="Screenshot 2025-12-01 003451" src="https://github.com/user-attachments/assets/a7b552cf-89da-4fdf-9ebe-1825fecf6225" />
+   <img width="1903" height="938" alt="Screenshot 2025-12-01 003930" src="https://github.com/user-attachments/assets/4913d94b-3e90-49a9-9bdd-4b9dd4b1f4be" />
+    <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/41817cd9-2998-45b9-9238-fe71ddf31782" />
+
+
+   
+
 
 ## 🛡️ License
 
